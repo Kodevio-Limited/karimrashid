@@ -1,0 +1,11 @@
+.bottomArrow{
+    z-index: 999;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+.bottomArrow .headind_srch_custom {
+    padding: 10px 36px 19px 30px;
+    overflow: hidden;
+}
